@@ -140,7 +140,6 @@ public class Snippets {
         $("").shouldNotHave(text("abc"));
         $("").should(appear);
         $("").shouldNot(appear);
-
     }
 
 }
