@@ -141,5 +141,4 @@ public class Snippets {
         $("").should(appear);
         $("").shouldNot(appear);
     }
-
 }
