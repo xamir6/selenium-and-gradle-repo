@@ -1,17 +1,8 @@
-import com.codeborne.selenide.Configuration;
-import net.bytebuddy.implementation.bind.annotation.IgnoreForBinding;
-import org.junit.jupiter.api.BeforeAll;
-import org.junit.jupiter.api.Test;
+package tests;
 
-import static com.codeborne.selenide.Condition.text;
-import static com.codeborne.selenide.Selenide.*;
+import docs.TestBase;
 
-public class SubmitFormTest {
-
-    @BeforeAll
-    static void beforeAll() {
-        Configuration.browserSize = "1920x1080";
-    }
+public class SubmitFormTest extends TestBase {
 
 //    @Test
 //    void submitFormTest() {

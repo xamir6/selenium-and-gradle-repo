@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="SearchTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-05-09T19:26:28" hostname="MSI" time="5.474">
+<testsuite name="tests.SearchTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-05-10T15:50:52" hostname="MSI" time="8.439">
   <properties/>
-  <testcase name="successfulSearchTest()" classname="SearchTests" time="5.474"/>
+  <testcase name="successfulSearchTest()" classname="tests.SearchTests" time="8.439"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[SLF4J(W): No SLF4J providers were found.
 SLF4J(W): Defaulting to no-operation (NOP) logger implementation
